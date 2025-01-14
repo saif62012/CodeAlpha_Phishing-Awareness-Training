@@ -1,1 +1,1 @@
-All tasks uploaded for the Rhombix Technologies cybersecurity internship.
+Phishing Awareness Training task uploaded for the CodeAlpha cybersecurity internship.
